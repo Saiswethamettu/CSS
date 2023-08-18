@@ -1,0 +1,92 @@
+/*.external{
+	border:3px solid green;
+	background-color:pink;
+	font-size:70px;
+	font-family:italic
+}
+
+
+
+#swetha{
+	font-size: 40px;
+	font-family:italic;
+}
+
+
+
+p{
+	color:olive;
+	font-size: 50px;
+	background-color:tan;
+	font-family:italic
+}
+
+div{
+	height:200px;
+    width:200px;
+    background-color:deeppink;
+}
+
+
+
+
+*{
+  font-size: 20px;
+  font-family:cursive;
+  color:lightgreen;
+  background-color:black;
+}
+
+input[type]{
+	color:pink;
+}
+input[type="text"]{
+	color:green;
+}
+input[type="Number"]{
+	color:royalblue;
+}
+a[href]{
+	background-color:tan;
+}
+
+
+
+
+a:link{
+	color:violet;
+}
+a:visited{
+	color:darkgreen;
+}
+a:hover{
+	color:deeppink;
+	font-size: 30px
+}
+a:active{
+	color:orange;
+}
+div:hover{
+	height:500px;
+	width:500px;
+	background-color:steelblue;
+}
+
+
+
+
+body{
+	background-image: url('images.avif');
+	background-repeat: no-repeat;
+	background-size: cover;
+}*/
+
+
+
+
+h1{
+	background-color: pink;
+	height: 200px;
+	width:400px;
+	outline: dotted red 10px;
+}
